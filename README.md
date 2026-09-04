@@ -43,5 +43,5 @@ Apassionado por la ciberseguridad con enfoque en **Seguridad Defensiva (Blue Tea
 ## 📬 Contacto & Redes
 
 - 📧 **Email:** jmbhernandezz@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/juan-brun](https://linkedin.com) *(Agrega tu link real)*
+- 💼 **LinkedIn:** www.linkedin.com/in/juan-brun-b74a54254
 - 📍 **Ubicación:** Cerro Largo, Uruguay
